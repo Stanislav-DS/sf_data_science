@@ -3,5 +3,5 @@ From the [SkillFactory Profession Data Science course](https://lms.skillfactory.
 
 ## Проекты
 
-* [Проект 0. Игра "Угадай число"](https://github.com/Stanislav-DS/sf_data_science/tree/main/project_0) - - базовое решение.
+* [Проект 0. Игра "Угадай число"](https://github.com/Stanislav-DS/sf_data_science/tree/main/project_0) - базовое решение.
 * [Проект 1. Игра "Угадай число"](https://github.com/Stanislav-DS/sf_data_science/tree/main/project_1) - итоговое задание модуля PYTHON-8.
