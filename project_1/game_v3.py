@@ -1,6 +1,6 @@
-"""Игра угадывает число не больше чем за 20 попыток."""
+"""Игра. Угадывает число не больше чем за 20 попыток."""
 
-import numpy as np
+from numpy import random, mean
 
 
 def guess_number(number: int = 1) -> int:
@@ -38,9 +38,11 @@ def score_game(random_predict) -> int:
         int: среднее количество попыток
     """
 
-    np.random.seed()
-    random_array = np.random.randint(1, 101, size=1000)
-    score = int(np.mean([random_predict(number) for number in random_array]))
+    random.seed()
+    random_array = random.randint(1, 101, size=1000)
+    score = [random_predict(number) for number in random_array]
+    score = mean(score)
+    score = int(round(score, 0))
     print(f"Ваш алгоритм угадывает число в среднем за {score} попыток")
     return score
 

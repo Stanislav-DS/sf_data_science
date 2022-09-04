@@ -1,52 +1,70 @@
-# Проект 0. Угадай число
+# Проект 1. Угадай число
 
 ## Оглавление
 
-[1. Описание проекта](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_0/README.md#Описание-проекта)
+1. [Описание проекта.](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_0/README.md#Описание-проекта)
 
-[2. Какой кейс решаем](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_0/README.md#Какой-кейс-решаем)
+1. [Проектный кейс.](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_0/README.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_0/README.md#Краткая-информация-о-данных)
+1. [Результат.](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_0/README.md#Результат)
 
-[4. Этапы работы над проектом](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_0/README.md#Этапы-работы-над-проектом)
-
-[5. Результат](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_0/README.md#Результат)
-
-[6. Выводы](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_0/README.md#Выводы)
+1. [Выводы.](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_0/README.md#Выводы)
 
 ### Описание проекта
-Угадать загаданное компьютером число за минимальное число попыток. Задача условная.
+Программа угадывает рандомное число не больше чем за 20 попыток.
 
-### Какой кейс решаем
 
-**Условия задачи**
+⬆️[к оглавлению](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
-1. Написать программу, в которой задается рандомное число, и, затем, пользователь пытается его угадать, вводя значение с клавиатуры ([game.py](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_0/game.py)).
+### Проектный кейс
 
-2. Написать две функции:
-   <br><code>random_predict</code>, в которой компьютер сам загадывает и сам отгадывает число, функция возвращает количество попыток;
-   <br><code>score_game</code>, которая возвращает среднее количество попыток за 1000 подходов "угадывания" числа компьютером;<br>([game_v2.py](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_0/game_v2.py)).
+**Условие задачи**
 
-3.  Создать jupyter notebook ([game.ipynb](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_0/game.ipynb)), в котором презентуется работа функции <code>score_game</code>.
+*   Компьютер загадывает целое число от 1 до 100, и нам его нужно угадать. Под «угадать» подразумевается «написать программу, которая угадывает число».
+*  Алгоритм учитывает информацию о том, больше или меньше случайное число нужного нам числа.
 
 **Метрика качества**
 
-Среднее количество попыток должно равняться 101 (алгоритм неоптимальный).
+Результаты оцениваются по среднему количеству попыток при 1000 повторений. Необходимо добиться минимального количества попыток.
+
+Код должен быть воспроизводим, соответствовать PEP8, его необхомо выгрузить на надлежащим образом оформленный репозиторий GitHub. 
 
 **Что практикуем**
-1. Работа в VS Code.
-2. Создание репозитория Git и аккаунта GitHub.
-3. Синхронизация локального и удаленного репозиториев.
-4. Оформление документации к проекту.
+*  Учимся писать хороший код на Python.
+*  Учимся работать с IDE.
+*  Учимся работать с GitHub.
 
-### Краткая информация о данных
+**Эталонное решение**
 
-### Этапы работы над проектом
+*  Шаблон [baseline](https://colab.research.google.com/drive/1k2WZD8PWWOYFHrpAJoB2eZw06ID7KnFA) из скринкаста.
+*  [Архив](https://lms.skillfactory.ru/assets/courseware/v1/f2a8fb0bf139c619f6b6d705f330e0ea/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/guess-number-task.zip) с базовым решением задачи.
 
-### Результат
 
-Перечисленные в задаче файлы, сохраненные в локальном и удаленном репозитории Git, c оформленной документацией проекта.
+⬆️[к оглавлению](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
-### Выводы
+### РЕЗУЛЬТАТ
+
+Программа угадывает число в среднем за 6 попыток.
+
+Код и описание алгоритма решения загружены на [GitHub](https://github.com/Stanislav-DS/sf_data_science/tree/main/project_1), обеспечена воспроизводимость кода:
+
+*   [game_v3.py](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_1/game_v3.py) - код (функции `guess_number` и `score_game`);
+*   [game.ipynb](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_1/game.ipynb) - описание алгоритма и демонстрация результатов работы программы.
+*   [requirements.txt](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_1/requirements.txt) - актульные версии библиотек на момент написания программы
+
+⬆️[к оглавлению](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_0/README.md#Оглавление)
+
+### ВЫВОДЫ
+
+**Проблемные моменты**
+
+Необходимо более детально разобраться в механизме манипулирования ветвями Git, в т.ч. слияния двух ветвей удаленного и локального репозиториев с несвязанной историей.
+
+**Полезный опыт**
+
+Для проверки кода на соответствие PEP8 удобно использовать т.н. линтеры:
+* [flake8](https://flake8.pycqa.org/en/latest/)
+* [pylint](https://www.pylint.org/)
+
 
 ⬆️[к оглавлению](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_0/README.md#Оглавление)
