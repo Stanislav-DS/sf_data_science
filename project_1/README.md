@@ -49,8 +49,8 @@
 Код и описание алгоритма решения загружены на [GitHub](https://github.com/Stanislav-DS/sf_data_science/tree/main/project_1), обеспечена воспроизводимость кода:
 
 *   [game_v3.py](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_1/game_v3.py) - код (функции `guess_number` и `score_game`);
-*   [game.ipynb](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_1/game.ipynb) - описание алгоритма и демонстрация результатов работы программы.
-*   [requirements.txt](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_1/requirements.txt) - актульные версии библиотек на момент написания программы
+*   [game.ipynb](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_1/game.ipynb) - описание алгоритма и демонстрация результатов работы программы;
+*   [requirements.txt](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_1/requirements.txt) - актульные версии библиотек на момент написания программы.
 
 ⬆️[к оглавлению](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_1/README.md#Оглавление)
 
