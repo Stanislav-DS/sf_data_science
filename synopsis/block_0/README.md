@@ -1,0 +1,63 @@
+# Блок 0
+
+## Содержание
+
+[Карта MindMap по материалам блока (html).](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/00_DPSR_PYTHON_MIND_MAP.html)
+
+[Краткое эссе по Python на английском (не закончено).](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/00_DSPR_PYTHON_english.ipynb)
+
+[Краткое эссе по Python на русском (не закончено).](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/00_DSPR_PYTHON_russian.ipynb)
+
+### PYTHON-02 Типы данных
+
+* [Вебинар "Погружение в типы данных" Альмир Шавалиев 16.07.2022.](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/00_python-02_Вебинар_2022.07.16_Альмир_Шавалиев.ipynb)
+
+### PYTHON-03 Условные операторы
+
+* [Решения практических задач.](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/PYTHON-03)
+* [Вебинар "Условные операторы" Андрей Рысистов 23.07.2022.](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/00_python-03_Вебинар_2022.07.23_Условные_операторы_Андрей_Рысистов.ipynb)
+* [Вебинар "Условные операторы" домашнее задание 23.07.2022.](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/00_python-03_Вебинар_2022.07.23_Условные_операторы_Домашнее_задание.ipynb)
+
+### PYTHON-04 Циклы
+
+* [Решения практических задач.](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/PYTHON-04)
+* [Вебинар "Циклы" Олег Булыгин 30.07.2022.](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/00_python-04_Вебинар_2022.07.30_Циклы_Олег_Булыгин.ipynb)
+
+### PYTHON-05.1 Функции
+
+* [Решения практических задач.](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/PYTHON-05.1)
+* [Вебинар "Функции" Олег Булыгин 07.08.2022.](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/00_python-05_1_Вебинар_2022.08.07_Функции_Олег_Булыгин.ipynb)
+* [Исследование по заданию 7.13 (лучший студент).](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/00_python-05-1_задание_7_13.ipynb) <br> (сравнение продолжительности работы разных вариантов решения)
+
+### PYTHON-05.2 Продвинутое использование функций
+
+* [Решения практических задач.](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/PYTHON-05.2)
+
+* Модуль 2 
+    * [Область видимости.](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/000_python-05-2_2_0_Область_видимости_переменных.ipynb)
+    * [Замыкания.](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/00_python-05-2_2_1_Замыкание.ipynb)
+    * [Практические задания.](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/00_python-05-2_2_2_Практические_задания.ipynb)
+* Модуль 3
+    * [Определение рекурсии и её применение.](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/00_python-05-2_3_1_Определение_рекурсии_и_её_применение.ipynb)
+    * [Факториал через рекурсию. Глубина рекурсии.](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/00_python-05-2_3_2_Факториал_Глубина_рекурсии.ipynb)
+    * [Практические задания.](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/00_python-05-2_3_3_Рекурсия_Практические_задания.ipynb)
+    * [Исследование. Построение дерева рекурсии для функции поиска числа Фиббоначи.](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/00_python-05-2_3_4_Рекурсия_Исследование_Дерево.ipynb)
+* Модуль 4
+    * [Закрепление знаний.](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/00_python-05-2_4_Закрепление_знаний.ipynb)
+* Модуль 5
+    * [Итераторы.](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/00_python-05-2_5_1_Итераторы.ipynb)
+    * [Генераторы](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/00_python-05-2_5_2_Генераторы.ipynb)
+    * [Практические задания.](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/00_python-05-2_5_3_Практические_задания.ipynb)
+* Модуль 6 (BONUS)
+    * [Практические задания.](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/00_python-05-2_6_BONUS_Практические_задания.ipynb)
+    * [Функции map, filter, zip, reduce.](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/00_python-05-2_6_BONUS_map_filter_zip_reduce.ipynb)
+* Модуль 7 (BONUS)
+    * [Декораторы.](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/00_python-05-2_7_BONUS_decorator.ipynb)
+
+### PYTHON-06 Практика
+
+* [Решение практических задач по блоку.](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/00_python-06_practice.ipynb)
+
+### Feedback
+
+[Мой отзыв о блоке 0, опубликованный в Slack.](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/feedback.md)
