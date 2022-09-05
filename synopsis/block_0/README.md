@@ -2,7 +2,7 @@
 
 ## Содержание
 
-[Карта MindMap по материалам блока (html).](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/00_DPSR_PYTHON_MIND_MAP.html)
+[Карта MindMap по материалам блока (html).](https://cloud.mail.ru/public/ex85/fW9msGEwq)
 
 [Краткое эссе по Python на английском (не закончено).](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_0/00_DSPR_PYTHON_english.ipynb)
 
