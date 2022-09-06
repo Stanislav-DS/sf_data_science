@@ -13,3 +13,10 @@
 * [PYTHON-05.2 Продвинутое использование функций.](https://github.com/Stanislav-DS/sf_data_science/blob/main/synopsis/block_0/README.md#python-052-продвинутое-использование-функций)
 * [PYTHON-06 Практика.](https://github.com/Stanislav-DS/sf_data_science/blob/main/synopsis/block_0/README.md#python-06-практика)
 * [Feedback.](https://github.com/Stanislav-DS/sf_data_science/blob/main/synopsis/block_0/README.md#feedback)
+
+## Блок 1
+
+[директория](https://github.com/Stanislav-DS/sf_data_science/tree/main/synopsis/block_1)
+
+* [PYTHON-08 Установка и настройка IDE и Git](https://github.com/Stanislav-DS/sf_data_science/blob/main/synopsis/block_1/README.md#python-08-установка-и-настройка-ide-и-git)
+* [PYTHON-09 Библиотека numpy](/synopsis/block_1/README.md#python-09-библиотека-numpy)
