@@ -2,19 +2,19 @@
 
 ## Оглавление
 
-1. [Описание проекта.](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_1/README.md#Описание-проекта)
+1. [Описание проекта.](/project_1/README.md#Описание-проекта)
 
-1. [Проектный кейс.](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_1/README.md#Проектный-кейс)
+1. [Проектный кейс.](/project_1/README.md#Проектный-кейс)
 
-1. [Результат.](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_1/README.md#Результат)
+1. [Результат.](/project_1/README.md#Результат)
 
-1. [Выводы.](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_1/README.md#Выводы)
+1. [Выводы.](/project_1/README.md#Выводы)
 
 ### Описание проекта
 Программа угадывает рандомное число не больше чем за 20 попыток.
 
 
-⬆️[к оглавлению](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_1/README.md#Оглавление)
+⬆️[к оглавлению](/project_1/README.md#Оглавление)
 
 ### Проектный кейс
 
@@ -40,7 +40,7 @@
 *  [Архив](https://lms.skillfactory.ru/assets/courseware/v1/f2a8fb0bf139c619f6b6d705f330e0ea/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/guess-number-task.zip) с базовым решением задачи.
 
 
-⬆️[к оглавлению](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_1/README.md#Оглавление)
+⬆️[к оглавлению](/project_1/README.md#Оглавление)
 
 ### РЕЗУЛЬТАТ
 
@@ -48,11 +48,11 @@
 
 Код и описание алгоритма решения загружены на [GitHub](https://github.com/Stanislav-DS/sf_data_science/tree/main/project_1), обеспечена воспроизводимость кода:
 
-*   [game_v3.py](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_1/game_v3.py) - код (функции `guess_number` и `score_game`);
-*   [game.ipynb](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_1/game.ipynb) - описание алгоритма и демонстрация результатов работы программы;
-*   [requirements.txt](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_1/requirements.txt) - актульные версии библиотек на момент написания программы.
+*   [game_v3.py](/project_1/game_v3.py) - код (функции `guess_number` и `score_game`);
+*   [game.ipynb](/project_1/game.ipynb) - описание алгоритма и демонстрация результатов работы программы;
+*   [requirements.txt](/project_1/requirements.txt) - актульные версии библиотек на момент написания программы.
 
-⬆️[к оглавлению](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_1/README.md#Оглавление)
+⬆️[к оглавлению](/project_1/README.md#Оглавление)
 
 ### ВЫВОДЫ
 
@@ -67,4 +67,4 @@
 * [pylint](https://www.pylint.org/)
 
 
-⬆️[к оглавлению](https://github.com/Stanislav-DS/sf_data_science/blob/main/project_1/README.md#Оглавление)
+⬆️[к оглавлению](/project_1/README.md#Оглавление)
