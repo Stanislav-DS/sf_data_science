@@ -11,6 +11,7 @@ def guess_number(number: int = 1) -> int:
 
     Returns:
         int: Количество попыток
+
     """
 
     # количество попыток
@@ -36,13 +37,14 @@ def score_game(random_predict) -> int:
 
     Returns:
         int: среднее количество попыток
+
     """
 
     random.seed()
     random_array = random.randint(1, 101, size=1000)
     score = [random_predict(number) for number in random_array]
     score = mean(score)
-    score = int(round(score, 0))
+    score = int(round(score))
     print(f"Ваш алгоритм угадывает число в среднем за {score} попыток")
     return score
 
