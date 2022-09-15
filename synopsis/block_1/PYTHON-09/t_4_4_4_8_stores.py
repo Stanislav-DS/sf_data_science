@@ -1,4 +1,4 @@
-"""Tasks 4.4-4.7 from PYTHON-09"""
+"""Tasks 4.4-4.8 from PYTHON-09"""
 
 from collections import Counter, defaultdict
 from variables import north, center, south
