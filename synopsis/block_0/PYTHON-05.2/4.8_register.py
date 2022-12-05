@@ -33,7 +33,14 @@ def register(surname, name, date, middle_name=None, registry=None):
     return registry
 
 
-reg = register('Petrova', 'Maria', (13, 3, 2003), 'Ivanovna')
-reg = register('Ivanov', 'Sergej', (24, 9, 1995), registry=reg)
-reg = register('Smith', 'John', (13, 2, 2003), registry=reg)
+# reg = register('Petrova', 'Maria', (13, 3, 2003), 'Ivanovna')
+# reg = register('Ivanov', 'Sergej', (24, 9, 1995), registry=reg)
+reg = register('Smith', 'John', (1, 2, 3, 4))
+
+
+
+
+
+
+
 print(reg)
