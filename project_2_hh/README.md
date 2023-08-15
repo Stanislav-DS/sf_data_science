@@ -62,7 +62,7 @@ PROJECT-1. Анализ резюме из HeadHunter с целью изучен�
 
 **Полезный опыт**
 
-Для форматирование кода удобно использовать расширение VsCode [Black Formatter](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter).
+Для форматирование кода удобно использовать расширение VSCode [Black Formatter](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter).
 
 
 
