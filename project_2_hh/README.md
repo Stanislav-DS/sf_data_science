@@ -44,7 +44,7 @@ PROJECT-1. Анализ резюме из HeadHunter с целью изучен�
 
 *   [project_2_hh.ipynb](/project_2_hh/project_2_hh.ipynb) - ноутбук-шаблон с решениями заданий (графики "png");
 *   [project_2_hh_html.ipynb](/project_2_hh/project_2_hh_html.ipynb) - ноутбук-шаблон с решениями заданий (графики "html");
-*   [просмотр ноубука со всеми графиками в браузере](https://nbviewer.org/github/Stanislav-DS/sf_data_science/blob/main/project_2_hh/project_2_hh_html.ipynb)
+*   [просмотр ноубука со всеми графиками в браузере](https://nbviewer.org/github/Stanislav-DS/sf_data_science/blob/main/project_2_hh/project_2_hh_html.ipynb) (через nbviewer.org)
 *   [data](https://cloud.mail.ru/public/CM7m/nsfE8XDCA) - данные, на основе которых делался проект (облако mail.ru);
 *   [все графики в формате html](/project_2_hh/graphs)
 *   [requirements.txt](/project_2_hh/requirements.txt) - актульные версии библиотек на момент подготовки проекта.
