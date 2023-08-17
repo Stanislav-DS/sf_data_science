@@ -129,6 +129,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+project_2_hh/data
 synopsis/block_2/PYTHON-16/data/countries.csv
 synopsis/block_2/PYTHON-16/data/countries.txt
 synopsis/block_2/PYTHON-16/data/ErrorEnCoding.csv
