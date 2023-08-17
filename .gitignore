@@ -129,3 +129,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+synopsis/block_2/PYTHON-16/data/countries.csv
+synopsis/block_2/PYTHON-16/data/countries.txt
+synopsis/block_2/PYTHON-16/data/ErrorEnCoding.csv
+synopsis/block_2/PYTHON-16/data/grades_new.xlsx
+synopsis/block_2/PYTHON-16/data/grades.xlsx
+synopsis/block_2/PYTHON-16/data/joined.xlsx
+synopsis/block_2/PYTHON-16/data/melb_data_ps.csv
+synopsis/block_2/PYTHON-16/data/out.zip
+synopsis/block_2/PYTHON-16/data/ratings_movies.xlsx
+synopsis/block_2/PYTHON-16/data/students_performance.zip
