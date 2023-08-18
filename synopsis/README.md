@@ -9,3 +9,8 @@
 
 [📁](/synopsis/block_1)
 [Содержание](/synopsis/block_1/README.md)
+
+## Блок 2
+
+[📁](/synopsis/block_1)
+[Содержание](/synopsis/block_2/README.md)
