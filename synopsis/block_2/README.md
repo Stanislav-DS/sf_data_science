@@ -11,3 +11,7 @@
 
 * [Краткий конспект модуля](/synopsis/block_2/PYTHON-17/02_python_17_theory.ipynb)
 
+
+### Аттестация Python
+
+* [Решение практических заданий](/synopsis/block_2/ATTESTATION/attestation_practice.ipynb)
