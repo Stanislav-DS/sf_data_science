@@ -4,6 +4,7 @@ From 133-DSPR group of the [SkillFactory Profession Data Science course](https:/
 
 
 * 📁 [Конспекты материалов курса](/synopsis)
+* 📁 [Полезные материалы по DS (облако mail)](https://cloud.mail.ru/public/bwwL/RxJvU6zrc)
 
 
 ## Проекты

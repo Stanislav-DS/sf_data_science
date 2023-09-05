@@ -24,3 +24,7 @@
 ### SQL-02 Агрегатные функции.
 
 * [Теория](/synopsis/block_2/SQL-02/02_sql_02_theory.ipynb)
+
+### SQL-03 Соединение таблиц
+
+* [Теория](/synopsis/block_2/SQL-03/02_sql_03_theory.ipynb)
