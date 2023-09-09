@@ -1,5 +1,7 @@
 # Блок 0
 
+---
+
 ## Содержание
 
 [Карта MindMap по материалам блока (html).](https://cloud.mail.ru/public/ex85/fW9msGEwq)
