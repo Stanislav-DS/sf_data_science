@@ -40,5 +40,5 @@
 ### PYTHON-15 Введение в ООП
 
 * [Краткий конспект модуля](/synopsis/block_1/PYTHON-15/01_python_15_theory.ipynb)
-* [Вебинар 23.09.2023 Марина Архипцева](/synopsis/block_1/PYTHON-15/2023.09.23_webinar_OOP_by_Marina_Arkhipceva.ipynb)
+* [Вебинар 20.09.2023 Марина Архипцева](/synopsis/block_1/PYTHON-15/2023.09.23_webinar_OOP_by_Marina_Arkhipceva.ipynb)
 
